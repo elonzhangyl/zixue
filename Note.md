@@ -4,4 +4,4 @@
 3. checkout 可以到branch，也可以到commit SSH
 4. Detached HEAD (vs attached)。 Normal HEAD 都是在branch 的latest commit。Detached HEAD允许你跳转到任何一个commit。
 5.
-6.
+6. 1

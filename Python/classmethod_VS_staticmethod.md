@@ -1,5 +1,5 @@
 # 大总结
--一般的method定义一个instance的方法
+- 一般的method定义一个instance的方法
 - classmethod定义一个类的方法
 - staticmethod定义一个跟instance也无关的方法（省空间，不用每个instance都有一个这个method的object）
 

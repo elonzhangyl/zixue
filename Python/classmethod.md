@@ -38,4 +38,6 @@ Such function can be achieved by an independent method outside the class, but us
 *classmethod的返回值一般是这个class的object*
 
 + staticmethod
-也是对输入参数的前处理，但功能比classmethod少-不用涉及到class的调用
+也是对输入参数的前处理，但功能比classmethod少-不用涉及到class的调用.
+It is a utility method and doesn't need an object ( self parameter) to complete its operation. So we declare it as a static method.
+之所以叫做staticmethod，是因为他不会随着object的改变而改变。

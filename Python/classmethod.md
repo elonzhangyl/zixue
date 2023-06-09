@@ -1,5 +1,5 @@
 + classmethod
-一个class只能指定一个输入参数*格式*，（比如只能接收某个指定的日期格式，这是class的*缺陷*），但实际使用中输入格式千变万化。解决这个矛盾最elegent的方式是classmethod。
+一个class只能指定一个输入参数*格式*，（比如只能接收某个指定的日期格式，这是class的*缺陷*），但实际使用中输入格式千变万化。解决这个矛盾最elegent的方式是classmethod。所有与这个类相关的方法都放在一起，而不是散落各地（好好好）。
 boilerplate
 ```
 class Date():
@@ -14,6 +14,11 @@ class Date():
         day, month, year = map(int, date_as_string.split('-'))
         date1 = cls(day, month, year)
         return date1
+
+    @staticmethod
+    def is_date_valid(date_as_string):
+        day, month, year = map(int, date_as_string.split('-'))
+        return day <= 31 and month <= 12 and year <= 3999
         
 # normal usage,只能输入特定的日期格式
 date1 = Date(11, 11, 2022)
@@ -25,8 +30,12 @@ date1 = Date(day, month, year)
 
 # elegent
 date2 = Date().from_string('11-09-2012')
+
+Date.is_date_valid('11-22-2222')
+
 ```
 Such function can be achieved by an independent method outside the class, but using classmethod allows a compact coding and fits OOP paradigm far better.
 *classmethod的返回值一般是这个class的object*
 
 + staticmethod
+也是对输入参数的前处理，但功能比classmethod少-不用涉及到class的调用

@@ -33,6 +33,16 @@ date2 = Date().from_string('11-09-2012')
 
 Date.is_date_valid('11-22-2222')
 
+# 新增功能：
+class Str2IntParam(Data_test):
+    @classmethod
+    def get_date(cls, string_date):
+        #这里第一个参数是cls， 表示调用当前的类名
+        year,month,day=map(int,string_date.split('-'))
+        date1=cls(year,month,day)
+        #返回的是一个初始化后的类
+        return date1
+
 ```
 Such function can be achieved by an independent method outside the class, but using classmethod allows a compact coding and fits OOP paradigm far better.
 *classmethod的返回值一般是这个class的object*

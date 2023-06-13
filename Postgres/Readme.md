@@ -20,3 +20,9 @@
 + \d display all tables and sequences ; \dt only show tables
 + 显示table内容 SELECT * FROM <table name>
 + DROP TABLE <table name>
+## 显示表格数据
++ SELECT <*, column_name1, column_name2> from <table name> 
+## 排序
++ SELECT * FROM table_name ORDERED BY column_name ASC/DESC;
+## 去重
++ SELECT DISTINCT column_name from table_name

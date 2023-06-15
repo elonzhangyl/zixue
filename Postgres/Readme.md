@@ -28,4 +28,6 @@
 + SELECT DISTINCT column_name from table_name
 ## 填入数值
 + ```INSERT INTO person(first_name, last_name, gender, date_of_birth)
-  VALUES('Anne', 'Smith', 'female','1999-9-9'```
+  VALUES('Anne', 'Smith', 'female', DATE '1999-9-9'```
+## WHERE, AND, OR 命令
++ 

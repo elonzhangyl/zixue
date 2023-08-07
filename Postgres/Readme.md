@@ -18,6 +18,7 @@
 + INSERT INTO <table name> (first_name, email)
   VALUES ('Jade', 'jade@gmail.com');
 + \d display all tables and sequences ; \dt only show tables
++ DROP DATABASE <database name>
 + 显示table内容 SELECT * FROM <table name>
 + DROP TABLE <table name>
 ## 显示表格数据

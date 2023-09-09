@@ -21,9 +21,9 @@
 
 # MySQL指令
 ## 查看已有的数据库（文件夹）
-```show databases;
+```show databases;```
 ## 创建数据库（文件夹）
-```create database name;
+```create database name;```
 ## 删除数据库（文件夹）
 ```drop```
 ## 进入数据库（文件夹）

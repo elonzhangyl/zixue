@@ -49,3 +49,11 @@ Then copy your image to a new system with regular file transfer tools such as cp
 `docker load -i <path to image tar file>`\
 You should add filename (not just directory) with -o, for example:\
 `docker save -o fathom.tar fathom_fe_interface-web`
+# Git Bash
+ First time usage, database is created but not migrated. We need to\
+ 1. Open Git Bash
+ 2. Enter the container command by:\
+  `winpty docker exec -it fathom_fe_interface-web-1 //bin/bash`
+ 3. run:\
+  `python manage.py migrate`
+

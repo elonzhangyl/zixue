@@ -29,6 +29,8 @@ services:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
     ports:
+    # Mapping from host port to container port
+    # IP is the building number; port is the flat door number
         - "5432:5432"
   web:
     build: .
@@ -46,4 +48,4 @@ You will need to save the Docker image as a tar file:\
 Then copy your image to a new system with regular file transfer tools such as cp, scp, or rsync (preferred for big files). After that you will have to load the image into Docker:\
 `docker load -i <path to image tar file>`\
 You should add filename (not just directory) with -o, for example:\
-`docker save -o c:/myfile.tar centos:16`\
+`docker save -o fathom.tar fathom_fe_interface-web`

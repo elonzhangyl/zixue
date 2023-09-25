@@ -57,3 +57,6 @@ You should add filename (not just directory) with -o, for example:\
  3. run:\
   `python manage.py migrate`
 
+# Tricks
+https://stackoverflow.com/questions/44694086/when-run-docker-compose-up-i-get-python-cant-open-file-manage-py-errno-2
+

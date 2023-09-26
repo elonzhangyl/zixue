@@ -1,14 +1,13 @@
-# Dockerfile
+1. Run docker containers locally
+  1. In the work directory of your local machine, create *Dockerfile* with the content below: 
 ```
 FROM python:3.8
 
 # Setup env
-ENV LANG C.UTF-8
-ENV LC_ALL C.UTF-8
-ENV PYTHONDONTWRITEBYTECODE 1
-ENV PYTHONFAULTHANDLER 1
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONFAULTHANDLER=1
 
-WORKDIR /code/
+WORKDIR /code
 
 # Install & use pipenv
 COPY Pipfile Pipfile.lock /code/
@@ -17,31 +16,37 @@ RUN pip install pipenv && pipenv install --dev --system --deploy
 
 COPY . /code/
 ```
-# docker-compose.yml
+  2. In the work directory of your local machine, create *docker-compose.yml* with the content below: 
 ```
 services:
   db: # This name is the host for DATABASE in setting.py in fathom_FEinterface
     image: postgres
-    # volumes:
-    #   - ./data/db:/var/lib/postgresql/data
+    container_name: fathom_db
     environment:
-      - POSTGRES_DB=fathom # This database name should be the same as in the DATABASE in setting.py in fathom_FEinterface
+      - POSTGRES_DB=fathom # This should be the same as the database name in the DATABASE in setting.py in fathom_FEinterface
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
     ports:
-    # Mapping from host port to container port
-    # IP is the building number; port is the flat door number
         - "5432:5432"
   web:
+    # This line trigger the 
     build: .
     volumes:
       - .:/code
     ports:
-      - "8001:8001"
-    command: python manage.py runserver 0.0.0.0:8001
+      - "8000:8000"
+    image: web:v0.0
+    container_name: fathom-web
+    command:
+      sh -c "python manage.py migrate &&
+             python manage.py runserver 0.0.0.0:8000"
     depends_on:
       - db
 ```
+  3. In the work directory of your local machine, create images and then containers using:\
+`docker-compose up` \
+You will be waiting for quite a while, after which you can run 127.0.0.1:8000 to test if it works\
+
 # Transfer file to server
 1. In the work directory of your local machine, save the Docker image/images as a .tar (zipped) file: (Note multiple images can be saved in one .tar file)\
 `docker save -o <path for generated tar file> <image name> <image name> <image name>`\

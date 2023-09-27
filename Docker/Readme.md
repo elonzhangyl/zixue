@@ -1,3 +1,7 @@
+# 心得
++ 在本地开发，而不是再container内部开发。
++ Docker是如何实现免装依赖软件的？、
+  比如Fathom项目，如果空手部署在另一台电脑，你需要配置手动Python，Postgres（包括安装软件本身，以及其依赖软件）。但是Docker已经把python连同一台能运行python的虚拟机配置好了，存储在一个image里，所以你只需要调用这个image就行。
 # Run docker containers locally
 + In the work directory of your local machine, create *Dockerfile* with the content below: 
 ```

@@ -5,3 +5,21 @@
 4. Detached HEAD (vs attached)。 Normal HEAD 都是在branch 的latest commit。Detached HEAD允许你跳转到任何一个commit。
 5.
 6. 1
+ git fetch upstream master (at any HEAD)
+ git merge upstream/master (at HEAD main)
+ git checkout -b master-copy origin/master (at any HEAD)
+ git push origin main:master (at any HEAD)
+ git rebase --onto master feature_a feature_b
+ 
+git push -d <remote_name> <branchname>
+
+git rebase -i 'commit_id'
+git commit -ammend
+
+git checkout -b mr36 upstream/merge-requests/36
+
+
+
+
+
+ 

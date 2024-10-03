@@ -10,3 +10,6 @@
 9. The motion was proposed by the club's chairwoman and **seconded** by the secretary.
 "I could use a drink." "I'll **second** that (= I agree with you)!" 附议
 10. **Applauding** is showing approval while **clapping** is just smacking your hands together.
+11. I can be **grumpy** when I don't want to be disturbed.
+12. **celery** vs **salary**
+13. the liquid nature of dips and sauces brings flavours into contact with more of our **taste buds**

@@ -1,15 +1,5 @@
 ### 2-3
 + 眼睛和鼠标要提前两个词，不要多，会忘
-
-### 此题关键是保证语法和单词不出错，听力是最次要的，只要听到一些就行，不要贪多
-+ 为了保证单词语法不出错，用以下简单句：
-    + it is /they are 形容词
-    + there is / we have / it could be about 名词
-    + they / we need to / it is important for us to 动词
-
-+ 在这个基础上，为了凑字数，可以用以下句子填充：
-    + This lecture mainly discussed
-    + Firstly, the speaker mentioned/agree/believe
-    + Secondly, the speaker mentioned
-    + Finally, the speaker highlighted
-    + In conclusion, it is an informative lecture.
++ 实词实词，只有实词
++ 1.2倍速听，连续十道题全对
++ 没听出的来的地方要多次练习

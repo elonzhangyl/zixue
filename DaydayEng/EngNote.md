@@ -14,3 +14,4 @@
 12. **celery** vs **salary**
 13. the liquid nature of dips and sauces brings flavours into contact with more of our **taste buds**
 14. **tzatziki** /tsætˈsiːki/
+14. applicant  /ˈæp.lɪ.kənt/

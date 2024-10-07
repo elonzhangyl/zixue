@@ -1,4 +1,4 @@
-
+01/10/2024
 1. After **prolonged** discussion, the representatives **hammered out** a form of words that was acceptable to everyone.
 2. **prolonged** sitting
 3. sitting **motionless** in a car, bus or train. 
@@ -14,4 +14,11 @@
 12. **celery** vs **salary**
 13. the liquid nature of dips and sauces brings flavours into contact with more of our **taste buds**
 14. **tzatziki** /tsætˈsiːki/
-14. applicant  /ˈæp.lɪ.kənt/
+15. applicant  /ˈæp.lɪ.kənt/
+
+
+07/20/2024
+1. launch |lɔːn(t)ʃ|
+2. The most common **seasonings** are salt, pepper, and acids (such as lemon juice). When seasonings are used properly, they cannot be tasted; their job is to **heighten** the flavours of the original ingredients. **Flavouring** refers to something that changes or **modifies** the original flavour of the food.
+3. calcium  ['kælsiəm] **Dairy** products such as milk and cheese, are high in **calcium**, while in limited amounts, **meat** can be a good source of **protein**.
+4. Choosing **wholegrain** bread or rice instead of **white** bread or rice can increase **fibre** intake.

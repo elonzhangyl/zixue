@@ -23,3 +23,4 @@
 3. calcium  ['kælsiəm] **Dairy** products such as milk and cheese, are high in **calcium**, while in limited amounts, **meat** can be a good source of **protein**.
 4. Choosing **wholegrain** bread or rice instead of **white** bread or rice can increase **fibre** intake.
 5. envisage /ɪnˈvɪz.ɪdʒ/ He wasn't what I'd **expected** - I'd **envisaged** someone much taller.
+6. bathymetry /ˌbəˈθɪmətri/

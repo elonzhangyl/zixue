@@ -1,4 +1,4 @@
-01/10/2024
+
 1. After **prolonged** discussion, the representatives **hammered out** a form of words that was acceptable to everyone.
 2. **prolonged** sitting
 3. sitting **motionless** in a car, bus or train. 
@@ -24,3 +24,7 @@
 4. Choosing **wholegrain** bread or rice instead of **white** bread or rice can increase **fibre** intake.
 5. envisage /ɪnˈvɪz.ɪdʒ/ He wasn't what I'd **expected** - I'd **envisaged** someone much taller.
 6. bathymetry /ˌbəˈθɪmətri/
+14. applicant  /ˈæp.lɪ.kənt/
+carpet pit
+vacuum 
+usher

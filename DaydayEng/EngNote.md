@@ -17,7 +17,7 @@
 15. applicant  /ˈæp.lɪ.kənt/
 
 
-07/20/2024
+07/10/2024
 1. launch |lɔːn(t)ʃ|
 2. The most common **seasonings** are salt, pepper, and acids (such as lemon juice). When seasonings are used properly, they cannot be tasted; their job is to **heighten** the flavours of the original ingredients. **Flavouring** refers to something that changes or **modifies** the original flavour of the food.
 3. calcium  ['kælsiəm] **Dairy** products such as milk and cheese, are high in **calcium**, while in limited amounts, **meat** can be a good source of **protein**.
@@ -27,3 +27,7 @@
 carpet pit
 vacuum 
 usher
+
+17/10/2024
+1. litre /ˈliː.tər/ vs litter /ˈlɪt.ər/
+

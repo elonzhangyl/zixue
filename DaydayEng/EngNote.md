@@ -30,4 +30,5 @@ usher
 
 17/10/2024
 1. litre /ˈliː.tər/ vs litter /ˈlɪt.ər/
+2. and your cheek or jaw is swollen /ˈswəʊ.lən/
 

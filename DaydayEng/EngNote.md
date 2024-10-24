@@ -33,4 +33,5 @@ usher
 2. and your cheek or jaw is swollen /ˈswəʊ.lən/
 3. ease toothache
 4. secant /ˈsiːk(ə)nt/
+5. occurrence  /əˈkʌr.əns/ 
 

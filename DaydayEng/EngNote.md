@@ -36,3 +36,5 @@ usher
 5. occurrence  /əˈkʌr.əns/
 6. shoulder  /ˈʃəʊl.dər/
 7. mumbling 
+empty promises
+

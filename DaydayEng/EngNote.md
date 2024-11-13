@@ -35,6 +35,8 @@ usher
 4. secant /ˈsiːk(ə)nt/
 5. occurrence  /əˈkʌr.əns/
 6. shoulder  /ˈʃəʊl.dər/
-7. mumbling 
-empty promises
+7. mumbling
+8. empty promises
+9. circumferential 前边也有重音
+
 

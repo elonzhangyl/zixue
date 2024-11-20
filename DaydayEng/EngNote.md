@@ -1,4 +1,4 @@
-
+无接触接吻
 1. After **prolonged** discussion, the representatives **hammered out** a form of words that was acceptable to everyone.
 2. **prolonged** sitting
 3. sitting **motionless** in a car, bus or train. 

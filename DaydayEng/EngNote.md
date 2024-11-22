@@ -1,4 +1,3 @@
-无接触接吻
 1. After **prolonged** discussion, the representatives **hammered out** a form of words that was acceptable to everyone.
 2. **prolonged** sitting
 3. sitting **motionless** in a car, bus or train. 
@@ -38,5 +37,6 @@ usher
 7. mumbling
 8. empty promises
 9. circumferential 前边也有重音
+10. Twelve months **constitute** one year.
 
 

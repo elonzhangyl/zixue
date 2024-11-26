@@ -39,5 +39,6 @@ usher
 9. circumferential 前边也有重音
 10. Twelve months **constitute** one year.
 11. obliged vs obligated
+12. comparison /kəmˈpær.ɪ.sən/ 中音在pa
 
 

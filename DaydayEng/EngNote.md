@@ -40,5 +40,6 @@ usher
 10. Twelve months **constitute** one year.
 11. obliged vs obligated
 12. comparison /kəmˈpær.ɪ.sən/ 中音在pa
+13. complaint  /kəmˈpleɪnt/
 
 

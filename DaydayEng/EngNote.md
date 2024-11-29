@@ -41,5 +41,6 @@ usher
 11. obliged vs obligated
 12. comparison /kəmˈpær.ɪ.sən/ 中音在pa
 13. complaint  /kəmˈpleɪnt/
+14. mandatory /ˈmandət(ə)ri/
 
 

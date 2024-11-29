@@ -42,5 +42,6 @@ usher
 12. comparison /kəmˈpær.ɪ.sən/ 中音在pa
 13. complaint  /kəmˈpleɪnt/
 14. mandatory /ˈmandət(ə)ri/
+15. sustainability  /səˌsteɪ.nəˈbɪl.ə.ti/
 
 

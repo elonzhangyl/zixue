@@ -45,5 +45,6 @@ usher
 15. sustainability  /səˌsteɪ.nəˈbɪl.ə.ti/
 16. demonstrate  /ˈdem.ən.streɪt/
 17. pedestrian /pɪˈdɛstrɪən/
+18. differentiate  /ˌdɪf.əˈren.ʃi.eɪt/
 
 

@@ -48,5 +48,6 @@ usher
 18. differentiate  /ˌdɪf.əˈren.ʃi.eɪt/
 19. fragmented time
 20. on/under my radar
+21. plague 折磨 our lives
 
 

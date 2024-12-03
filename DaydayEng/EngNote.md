@@ -46,5 +46,6 @@ usher
 16. demonstrate  /ˈdem.ən.streɪt/
 17. pedestrian /pɪˈdɛstrɪən/
 18. differentiate  /ˌdɪf.əˈren.ʃi.eɪt/
+19. fragmented time
 
 

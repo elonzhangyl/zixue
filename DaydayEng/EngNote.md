@@ -28,7 +28,7 @@ vacuum
 usher
 
 17/10/2024
-1. litre /ˈliː.tər/ vs litter /ˈlɪt.ər/
+1. litre /ˈliː.tər/ 升 vs litter /ˈlɪt.ər/
 2. and your cheek or jaw is swollen /ˈswəʊ.lən/
 3. ease toothache
 4. secant /ˈsiːk(ə)nt/

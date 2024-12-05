@@ -49,5 +49,6 @@ usher
 19. fragmented time
 20. on/under my radar
 21. plague 折磨 our lives
+voluntarily
 
 

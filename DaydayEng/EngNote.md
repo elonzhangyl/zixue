@@ -50,5 +50,6 @@ usher
 20. on/under my radar
 21. plague 折磨 our lives
 22. voluntarily
+23. nitpicking 抓虱子 吹毛求疵
 
 

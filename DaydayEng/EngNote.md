@@ -52,5 +52,6 @@ usher
 22. voluntarily
 23. nitpicking 抓虱子 吹毛求疵
 24. cook the books
+asian A人
 
 

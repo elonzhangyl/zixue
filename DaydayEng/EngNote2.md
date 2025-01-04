@@ -9,3 +9,5 @@
 9. private /ˈpraɪ.vət/
 10. the officer will **show up** **unannounced** to **check on him** as he has been **charged** with a serious crime of **drug trafficking**
 11. 毕竟是我们的亲生儿子 After all he's our son
+12. constable: a British police officer of the lowest rank
+13. access /ˈæk.ses/

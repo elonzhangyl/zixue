@@ -11,3 +11,4 @@
 11. 毕竟是我们的亲生儿子 After all he's our son
 12. constable: a British police officer of the lowest rank
 13. access /ˈæk.ses/
+14. mediate mediator mediation 调解员

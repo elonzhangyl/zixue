@@ -1,4 +1,3 @@
-
 1. After **prolonged** discussion, the representatives **hammered out** a form of words that was acceptable to everyone.
 2. **prolonged** sitting
 3. sitting **motionless** in a car, bus or train. 
@@ -14,3 +13,48 @@
 12. **celery** vs **salary**
 13. the liquid nature of dips and sauces brings flavours into contact with more of our **taste buds**
 14. applicant  /ˈæp.lɪ.kənt/; agriculture  /ˈæɡ.rɪ.kʌl.tʃər/
+14. **tzatziki** /tsætˈsiːki/
+15. applicant  /ˈæp.lɪ.kənt/
+
+
+07/10/2024
+1. launch |lɔːn(t)ʃ|
+2. The most common **seasonings** are salt, pepper, and acids (such as lemon juice). When seasonings are used properly, they cannot be tasted; their job is to **heighten** the flavours of the original ingredients. **Flavouring** refers to something that changes or **modifies** the original flavour of the food.
+3. calcium  ['kælsiəm] **Dairy** products such as milk and cheese, are high in **calcium**, while in limited amounts, **meat** can be a good source of **protein**.
+4. Choosing **wholegrain** bread or rice instead of **white** bread or rice can increase **fibre** intake.
+5. envisage /ɪnˈvɪz.ɪdʒ/ He wasn't what I'd **expected** - I'd **envisaged** someone much taller.
+6. bathymetry /ˌbəˈθɪmətri/
+carpet pit
+vacuum 
+usher
+
+17/10/2024
+1. litre /ˈliː.tər/ 升 vs litter /ˈlɪt.ər/
+2. and your cheek or jaw is swollen /ˈswəʊ.lən/
+3. ease toothache
+4. secant /ˈsiːk(ə)nt/
+5. occurrence  /əˈkʌr.əns/
+6. shoulder  /ˈʃəʊl.dər/
+7. mumbling
+8. empty promises
+9. circumferential 前边也有重音
+10. Twelve months **constitute** one year.
+11. obliged vs obligated
+12. comparison /kəmˈpær.ɪ.sən/ 中音在pa
+13. complaint  /kəmˈpleɪnt/
+14. mandatory /ˈmandət(ə)ri/
+15. sustainability  /səˌsteɪ.nəˈbɪl.ə.ti/
+16. demonstrate  /ˈdem.ən.streɪt/
+17. pedestrian /pɪˈdɛstrɪən/
+18. differentiate  /ˌdɪf.əˈren.ʃi.eɪt/
+19. fragmented time
+20. on/under my radar
+21. plague 折磨 our lives
+22. voluntarily
+23. nitpicking 抓虱子 吹毛求疵
+24. cook the books
+25. asian A人
+26. growth hormone  /ˈhɔː.məʊn/
+27. police  /pəˈliːs/
+
+

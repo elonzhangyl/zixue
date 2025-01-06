@@ -20,5 +20,12 @@
 20. 胃不舒服 upset stomach
 21. 食物中毒 food poisoning
 22. 拉肚子 腹泻 diarrhea
-23. asthma 哮喘 wheezing气喘 inhaler喷雾器
+23. asthma 哮喘 wheezing气喘 inhaler 喷雾器
 24. marijuana /ˌmær.əˈwɑː.nə, heroin /ˈher.əʊ.ɪn/, cocaine  /kəʊˈkeɪn/ and amphetamine /æmˈfet.ə.miːn/大麻、海洛因、可卡因以及安非他命
+25. 肠胃和肝脏 stomach, intestines* and liver
+26. pregnant pregnancy
+27. 蛋白质以及乳制品 protein and dairy
+28. vitamin as well as calcium /ˈkæl.si.əm/ and iron supplements  /ˈsʌp.lɪ.mənt/ 维生素，并且还补钙和补铁
+29. nausea /ˈnɔː.zi.ə/ 恶心、dizziness 头晕 sore muscles肌肉酸痛 
+30. viral infection病毒感染
+

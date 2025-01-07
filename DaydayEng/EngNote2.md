@@ -30,7 +30,7 @@
 + 咳嗽、发烧、出汗和体温高coughing, fever, sweating and high temperature
 + nausea /ˈnɔː.zi.ə/ 恶心、dizziness 头晕 sore muscles肌肉酸痛 
 + 喉咙有点疼 mild sore throat
-+ 一直流鼻涕和咳嗽 runny nose and coughing
++ 流鼻涕和咳嗽 runny nose and coughing
   
 ## Diseases
 + asthma 哮喘 wheezing气喘 inhaler 喷雾器

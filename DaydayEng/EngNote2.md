@@ -38,7 +38,7 @@
 + have/got/catch the flu
 + have a fever
 + diabetes 糖尿病
-+ viral infection 病毒感染
++ viral  /ˈvaɪə.rəl/ infection 病毒感染
 
 ## Medicine
 + marijuana /ˌmær.əˈwɑː.nə, heroin /ˈher.əʊ.ɪn/, cocaine  /kəʊˈkeɪn/ and amphetamine /æmˈfet.ə.miːn/大麻、海洛因、可卡因以及安非他命

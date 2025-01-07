@@ -21,6 +21,7 @@
 18. cholesterol /kəˈles.tər.ɒl/ 胆固醇
 19. 血糖 blood sugar
 20. 血检 blood test
+21. family /ˈfæ**m.ə**l.i/
 
 ## Symptoms
 + 胃不舒服 upset stomach

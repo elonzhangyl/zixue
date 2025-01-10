@@ -56,5 +56,6 @@ usher
 25. asian A人
 26. growth hormone  /ˈhɔː.məʊn/
 27. police  /pəˈliːs/
+28. extrapolation  /ɪkˌstræp.əˈleɪ.ʃən/ 
 
 

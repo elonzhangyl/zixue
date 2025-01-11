@@ -58,5 +58,6 @@ usher
 27. police  /pəˈliːs/
 28. extrapolation  /ɪkˌstræp.əˈleɪ.ʃən/
 29. appropriate  /əˈprəʊ.pri.ət/
+30. cohesive /kəʊˈhiː.sɪv/
 
 

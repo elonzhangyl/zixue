@@ -21,6 +21,8 @@
 18. cholesterol /kəˈles.tər.ɒl/ 胆固醇
 19. 血糖 blood sugar
 20. 血检 blood test
+21. temperature  **/ˈtem**.prə.tʃər/
+22. 测体温 thermometer/θəˈmɒm.ɪ.tər/ place the tip of it under his tongue or armpit in order to take his temperature
 
 ## Symptoms
 + 胃不舒服 upset stomach
@@ -30,6 +32,12 @@
 + nausea /ˈnɔː.zi.ə/ 恶心、dizziness 头晕 sore muscles肌肉酸痛 
 + 喉咙有点疼 mild sore throat
 + 一直流鼻涕和咳嗽 runny nose and coughing
++ 我一见到血就会头晕 I faint at sight of blood
++ 针刚扎进你皮肤的时候，你只会感觉到轻微刺痛。 You’ll only feel a slight **prick** when the **needle** first **pierces** your skin.
++ clench his fist 紧握拳头
++ I’ll need you to make a fist,
+and then unclench it when I tell you to. I’m looking for your vein. 后握紧拳头，等我喊你的时候再松
+开。我在找你的静脉
   
 ## Diseases
 + asthma 哮喘 wheezing气喘 inhaler 喷雾器
@@ -41,7 +49,7 @@
 
 ## Medicine
 + marijuana /ˌmær.əˈwɑː.nə, heroin /ˈher.əʊ.ɪn/, cocaine  /kəʊˈkeɪn/ and amphetamine /æmˈfet.ə.miːn/大麻、海洛因、可卡因以及安非他命
-+ 扑热息痛 paracetamol
++ 扑热息痛 paracetamol /ˌpær.əˈsiː.tə.mɒl/
 + 布洛芬 ibuprofen
 + 蛋白质以及乳制品 protein and dairy
 + vitamin as well as calcium /ˈkæl.si.əm/ and iron supplements  /ˈsʌp.lɪ.mənt/ 维生素，并且还补钙和补铁
@@ -51,4 +59,5 @@
 + pregnant pregnancy
 + 开病假条 sign you a medical certificate /səˈtɪf.ɪ.**kət/**
 + 康复 It is good for your recovery；hopefully I will recover soon
++ 抽血 blood draw 惯用手 stronger arm 淤青 bruising 肿胀 swelling 左撇子 left-handed 握拳 make/clench a fist 张开拳 unclench a fist 静脉vein
 

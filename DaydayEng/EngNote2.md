@@ -1,5 +1,5 @@
 1. smashed the sofa and punched you in your nose
-2. escalate his actions 变本加厉
+2. escalate  /ˈes.kə.leɪt/ his actions 变本加厉
 3. the court is fully scheduled法庭日程已经满了
 4. lodge an urgen case application申请紧急案件处理
 5. magistrate  /ˈmædʒ.ɪ.streɪt/ 地方法官 VS judge
@@ -45,7 +45,7 @@ and then unclench it when I tell you to. I’m looking for your vein. 后握紧�
 + have/got/catch the flu
 + have a fever
 + diabetes 糖尿病
-+ viral infection 病毒感染
++ viral  /ˈvaɪə.rəl/ infection 病毒感染
 
 ## Medicine
 + marijuana /ˌmær.əˈwɑː.nə, heroin /ˈher.əʊ.ɪn/, cocaine  /kəʊˈkeɪn/ and amphetamine /æmˈfet.ə.miːn/大麻、海洛因、可卡因以及安非他命

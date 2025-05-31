@@ -6,3 +6,4 @@
 + make a day of it - yeof it
 + hiking trail 不是path
 + perishable 易腐烂的
++ library will be obsolete 过时的

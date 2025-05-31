@@ -5,3 +5,4 @@
 + excusion vs short trips
 + make a day of it - yeof it
 + hiking trail 不是path
++ perishable 易腐烂的

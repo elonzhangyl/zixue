@@ -7,3 +7,4 @@
 + hiking trail 不是path
 + perishable 易腐烂的
 + library will be obsolete 过时的
++ tangible vs real 实打实的 vs 真的

@@ -10,3 +10,4 @@
 + tangible vs real 实打实的 vs 真的
 + backfire v. 事与愿违
 + Aptitude vs ability 天生的 VS 后天的
++ programme vs schedule 强调内容 VS 强调时间点

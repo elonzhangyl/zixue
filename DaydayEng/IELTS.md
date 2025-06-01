@@ -8,3 +8,5 @@
 + perishable 易腐烂的
 + library will be obsolete 过时的
 + tangible vs real 实打实的 vs 真的
++ backfire v. 事与愿违
++ Aptitude vs ability 天生的 VS 后天的
